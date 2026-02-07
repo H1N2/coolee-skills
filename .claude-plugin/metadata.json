@@ -1,0 +1,42 @@
+{
+  "name": "coolee-skills",
+  "version": "1.0.0",
+  "description": "Skills shared for improving daily work efficiency with Claude Code",
+  "author": "H1N2",
+  "homepage": "https://github.com/H1N2/coolee-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/H1N2/coolee-skills.git"
+  },
+  "plugins": [
+    {
+      "id": "productivity-skills",
+      "name": "Productivity Skills",
+      "description": "Productivity and workflow tools",
+      "path": "skills/productivity-skills",
+      "skills": [
+        "task-manager",
+        "note-taker"
+      ]
+    },
+    {
+      "id": "development-skills",
+      "name": "Development Skills",
+      "description": "Development utilities",
+      "path": "skills/development-skills",
+      "skills": [
+        "code-reviewer",
+        "test-generator"
+      ]
+    },
+    {
+      "id": "ai-generation-skills",
+      "name": "AI Generation Skills",
+      "description": "AI-powered content generation tools",
+      "path": "skills/ai-generation-skills",
+      "skills": [
+        "nanobabana-image-generator"
+      ]
+    }
+  ]
+}

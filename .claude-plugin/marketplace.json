@@ -1,0 +1,13 @@
+{
+  "name": "coolee-skills",
+  "description": "A collection of efficiency skills for Claude Code.",
+  "version": "0.1.0",
+  "author": "Coolee",
+  "repository": "https://github.com/your-username/coolee-skills",
+  "skills": [
+    {
+      "id": "coolee-claudian-updater",
+      "path": "skills/utility-skills/coolee-claudian-updater/SKILL.md"
+    }
+  ]
+}

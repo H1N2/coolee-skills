@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "mcp__fetch__fetch",
+      "Bash(git init:*)",
+      "WebSearch",
+      "Bash(tree skills/ai-generation-skills -L 3)",
+      "Bash(git remote add:*)",
+      "Bash(git add .)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: initial project setup with 5 skills across 3 plugin categories\n\n- Add productivity-skills plugin \\(task-manager, note-taker\\)\n- Add development-skills plugin \\(code-reviewer, test-generator\\)\n- Add ai-generation-skills plugin \\(nanobabana-image-generator\\)\n- Include comprehensive documentation \\(README, CONTRIBUTING, CHANGELOG\\)\n- Support bilingual documentation \\(English/Chinese\\)\n- Add MIT license\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
