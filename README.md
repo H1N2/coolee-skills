@@ -1,5 +1,7 @@
 # Coolee Skills
 
+[English](README.md) | [中文](README.zh.md)
+
 A collection of efficiency skills for Claude Code, following the conventions and standards of `JimLiu/baoyu-skills`.
 
 ## Overview

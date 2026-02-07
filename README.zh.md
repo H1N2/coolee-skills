@@ -1,5 +1,7 @@
 # Coolee Skills (中文)
 
+[English](README.md) | [中文](README.zh.md)
+
 Claude Code 的效率技能集合，遵循 `JimLiu/baoyu-skills` 的结构和标准。
 
 ## 项目概述
